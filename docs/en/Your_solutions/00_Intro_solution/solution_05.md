@@ -18,7 +18,7 @@ A_x = |\vec{A}| \cos(\theta)
 $$
 
 $$
-A_y = |\vec{A}) \sin(\theta)
+A_y = |\vec{A}| \sin(\theta)
 $$
 
 ---
@@ -69,4 +69,5 @@ The vector $\vec{A}$ can be expressed in component form as:
 
 * **Horizontal ($A_x$):** $7.5$
 * **Vertical ($A_y$):** $12.99$
+
 
