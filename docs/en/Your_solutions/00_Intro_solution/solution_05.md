@@ -70,4 +70,3 @@ The vector $\vec{A}$ can be expressed in component form as:
 * **Horizontal ($A_x$):** $7.5$
 * **Vertical ($A_y$):** $12.99$
 
-In unit vector notation: $\vec{A} = 7.5\hat{i} + 12.99\hat{j}$
