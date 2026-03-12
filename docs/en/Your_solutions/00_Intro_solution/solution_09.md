@@ -5,20 +5,24 @@
 Before solving, we need to establish the mathematical tools required for optimization:
 
 * **The Area of a Rectangle**: For a rectangle with width $w$ and height $h$, the area $A$ is:
-    $$
-    A = w \cdot h
-    $$
+
+$$
+A = w \cdot h
+$$
+
 * **The First Derivative Test**: To find the local maximum or minimum of a function $f(x)$, we find the critical points where $f'(x) = 0$.
 * **The Power Rule**: A fundamental derivative rule used here:
-    $$
-    \frac{d}{dx}[x^n] = n x^{n-1}
-    $$
+
+$$
+\frac{d}{dx}[x^n] = n x^{n-1}
+$$
 
 ---
 
 ## 2. Problem Setup
 
 We are looking for a rectangle in the **first quadrant** bounded by the curve:
+
 $$
 y = 3 - x^2
 $$
@@ -38,10 +42,13 @@ Since the point $(x, y)$ is on the curve, the height of our rectangle is $y = 3 
 
 ### Step 1: Define the Objective Function
 We want to maximize the Area ($A$). Substituting the curve equation into the area formula:
+
 $$
 A(x) = x \cdot (3 - x^2)
 $$
+
 Distributing the $x$:
+
 $$
 A(x) = 3x - x^3
 $$
@@ -54,33 +61,43 @@ Since the rectangle is in the first quadrant:
 
 ### Step 3: Find the Critical Points
 To find the maximum, we take the derivative of $A(x)$ and set it to zero:
+
 $$
-A'(x) = \frac{d}{dx}(3x - x^3) = 3 - 3x^2
+A'(x) = 3 - 3x^2
 $$
+
 Setting the derivative to zero:
+
 $$
 3 - 3x^2 = 0
 $$
+
 $$
 3 = 3x^2
 $$
+
 $$
 1 = x^2
 $$
+
 $$
 x = 1
 $$
+
 *(We ignore $x = -1$ because it is outside our first-quadrant domain).*
 
 ### Step 4: Verify the Maximum
 Using the second derivative test:
+
 $$
 A''(x) = -6x
 $$
-At $x = 1$, $A''(1) = -6$. Since the second derivative is negative, the function is concave down, confirming that $x = 1$ is indeed a **maximum**.
+
+At $x = 1$, $A''(1) = -6$. Since the second derivative is negative, the function is concave down, confirming that $x = 1$ is a **maximum**.
 
 ### Step 5: Calculate Final Dimensions
 Now we find the corresponding height ($y$):
+
 $$
 y = 3 - (1)^2 = 2
 $$
