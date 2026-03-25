@@ -143,3 +143,6 @@ ax.set_title(f'Trajectory of Point M (a={a}, b={b}, ω={omega})')
 ax.legend()
 
 plt.show()
+```
+
+# https://colab.research.google.com/drive/1HiVjOui6GNPSjcEUc-p5C0uotx17hwaA
