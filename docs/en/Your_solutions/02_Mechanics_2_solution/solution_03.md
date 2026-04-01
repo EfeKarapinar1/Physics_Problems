@@ -1,4 +1,8 @@
-# Physics Problem: Conservation of Energy in a Pendulum
+# 3. Conservation of Energy
+
+A pendulum with a length of 1.0 meter is released from an initial angle of $15^\circ$. What is the speed of the pendulum bob at the bottom of its swing?
+
+---
 
 ## 1. Key Definitions and Formulas
 
