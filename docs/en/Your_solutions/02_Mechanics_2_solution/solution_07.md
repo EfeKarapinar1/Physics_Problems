@@ -8,25 +8,25 @@ A 5 kg block is placed on a 10 kg block. A horizontal force of 45 N is applied t
 
 To solve this problem, we use the principles of Newton's Second Law and the physics of friction.
 
-* **Newton’s Second Law**: The net force acting on an object is equal to the mass of that object multiplied by its acceleration.
+**Newton’s Second Law**: The net force acting on an object is equal to the mass of that object multiplied by its acceleration.
+
+$$
+\sum F = m \cdot a
+$$
+
+**Normal Force ($N$)**: The support force exerted by a surface. For a horizontal surface, it is equal to the weight of the objects pressing down on it.
     
-    $$
-    \sum F = m \cdot a
-    $$
+$$
+N = m \cdot g
+$$
     
-* **Normal Force ($N$)**: The support force exerted by a surface. For a horizontal surface, it is equal to the weight of the objects pressing down on it.
+**Kinetic Friction ($f_k$)**: The resistive force between moving surfaces.
     
-    $$
-    N = m \cdot g
-    $$
+$$
+f_k = \mu_k \cdot N
+$$
     
-* **Kinetic Friction ($f_k$)**: The resistive force between moving surfaces.
-    
-    $$
-    f_k = \mu_k \cdot N
-    $$
-    
-    where $\mu_k$ is the coefficient of kinetic friction.
+where $\mu_k$ is the coefficient of kinetic friction.
 
 ---
 
