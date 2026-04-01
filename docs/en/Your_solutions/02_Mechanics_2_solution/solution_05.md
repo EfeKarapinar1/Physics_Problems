@@ -1,6 +1,6 @@
-# Physics Problem: Inelastic Collision Analysis
+# Question - 5. Inelastic Collision
 
-This document provides a step-by-step solution to a classic physics problem involving momentum and energy in an inelastic collision.
+A 70 kg runner moving at $3 \text{ m/s}$ jumps onto a 140 kg stationary cart. What is the final speed of the cart with the runner? Is kinetic energy conserved in this collision? Explain.
 
 ---
 
