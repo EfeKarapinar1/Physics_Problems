@@ -1,6 +1,6 @@
-# 2. Harmonic Motion Solution
+# 2. Harmonic Motion
 
-This document provides a step-by-step solution to the harmonic motion problem involving a 10 kg mass.
+A 10 kg mass is attached to a spring and oscillates according to the equation $x(t) = 0.2 \cos(10\pi t)$ (in meters). What is the spring constant $k$? What is the total mechanical energy of the system?
 
 ---
 
