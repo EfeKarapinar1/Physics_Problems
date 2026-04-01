@@ -1,4 +1,19 @@
-# Vertical Throw with Linear Drag: Analytical and Numerical Analysis
+# Question - 9. Vertical throw with drag
+
+We have the equation of motion:
+
+$$
+m\frac{dv}{dt} = -mg - kv
+$$
+
+with initial conditions $v(0)=v_0$, $x(0)=10$.
+
+* Solve the equation by analytical methods.
+* Determine the maximum height.
+* Compare with the case without drag.
+* Perform a numerical simulation using HTML or Pythyon.
+
+---
 
 ## 1. Definitions and Fundamental Formulas
 
