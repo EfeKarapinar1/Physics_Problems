@@ -1,22 +1,19 @@
-# Physics Problem: Work and Energy with a Constant Force
+# Question - 12. Work and energy with a constant force
 
-## Problem Description
 A constant force acts on a body of mass $m = 2\ \mathrm{kg}$:
 
 $$
 \vec F = [6, 2]\ \mathrm{N}
 $$
 
-The body starts with an initial velocity $\vec v(0) = (1, -1)\ \mathrm{m/s}$ from the point $\vec r(0) = (0, 0)\ \mathrm{m}$.
-
-**Tasks:**
-1. Determine $\vec a(t)$.
-2. Determine $\vec v(t)$.
-3. Determine $\vec r(t)$.
-4. Draw the trajectory of the motion.
-5. Calculate the work done by the force at time $t = 3\ \mathrm{s}$.
-6. Check the consistency with the work-energy theorem.
-
+The body starts with an initial velocity $\vec v(0) = (1, -1)\ \mathrm{\frac{m}{s}}$ from the point $\vec r(0)=(0,0)\ \mathrm{m}$. 
+* Determine $\vec a(t)$.
+* Determine $\vec v(t)$.
+* Determine $\vec r(t)$.
+* Draw the trajectory of the motion.
+* Calculate the work done by the force at time $t=3\ \mathrm{s}$.
+* Check the consistency with the work-energy theorem.
+  
 ---
 
 ## 1. Necessary Definitions and Formulas
