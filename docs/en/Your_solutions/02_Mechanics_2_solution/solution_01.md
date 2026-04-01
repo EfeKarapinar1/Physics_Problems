@@ -1,4 +1,4 @@
-## Question - 1. Gravitational Dependence
+# Question - 1. Gravitational Dependence
 
 A simple pendulum has a period of 4 seconds on Earth. What would its period be on the Moon, where the gravitational acceleration is about 1/6th of Earth's?
 
