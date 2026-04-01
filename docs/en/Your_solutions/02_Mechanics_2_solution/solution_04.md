@@ -7,21 +7,25 @@ A 0.5 kg block slides down a frictionless track from a height of 3.0 m. At the b
 ### 1. Key Definitions and Formulas
 
 **Conservation of Mechanical Energy**
+
 $$
 E_{initial} = E_{final}
 $$
 
 **Gravitational Potential Energy ($U_g$)**
+
 $$
 U_g = mgh
 $$
 
 **Kinetic Energy ($K$)**
+
 $$
 K = \frac{1}{2}mv^2
 $$
 
 **Conservation of Linear Momentum**
+
 $$
 m_1 v_1 + m_2 v_2 = (m_1 + m_2) v_f
 $$
@@ -32,6 +36,7 @@ $$
 
 **Step 1: Velocity at the bottom of the track**
 Using the conservation of energy:
+
 $$
 m_1 g h = \frac{1}{2} m_1 v_1^2
 $$
@@ -42,6 +47,7 @@ $$
 
 **Step 2: Velocity after the inelastic collision**
 Using the conservation of momentum:
+
 $$
 m_1 v_1 + m_2 v_2 = (m_1 + m_2) v_f
 $$
