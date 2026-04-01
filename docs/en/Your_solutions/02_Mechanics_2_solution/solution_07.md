@@ -1,4 +1,8 @@
-# Physics Problem: Dynamics with Friction
+# Question - 7. Dynamics with Friction
+
+A 5 kg block is placed on a 10 kg block. A horizontal force of 45 N is applied to the 10 kg block, and the 5 kg block is tied to the wall. The coefficient of kinetic friction between all moving surfaces is 0.2. Find the acceleration of the 10 kg block.
+
+---
 
 ## 1. Necessary Definitions and Formulas
 
