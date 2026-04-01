@@ -72,7 +72,7 @@ $$
 k = 1000\pi^2 \text{ N/m}
 $$
 
-*Numerical approximation (using $\pi^2 \approx 9.87$): $k \approx 9869.6 \text{ N/m}$.*
+Numerical approximation (using $\pi^2 \approx 9.87$ ): $k \approx 9869.6 \text{ N/m}$.
 
 ### Step 3: Calculate the Total Mechanical Energy ($E$)
 Now we use the energy formula with the calculated $k$ and the identified $A$:
@@ -95,7 +95,7 @@ $$
 E = 20\pi^2 \text{ J}
 $$
 
-*Numerical approximation: $E \approx 197.39 \text{ J}$.*
+Numerical approximation: $E \approx 197.39 \text{ J}$.
 
 ---
 
