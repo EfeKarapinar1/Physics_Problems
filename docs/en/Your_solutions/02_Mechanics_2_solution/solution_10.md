@@ -14,35 +14,35 @@ Find the time dependence of: the particle's velocity, the particle's momentum, t
 
 Before solving, we define the physical quantities used:
 
-* **Velocity ($\vec{v}$)**: The time derivative of the position vector.
+**Velocity ($\vec{v}$)**: The time derivative of the position vector.
     
-    $$
-    \vec{v} = \frac{d\vec{r}}{dt} = \left[ \frac{dx}{dt}, \frac{dy}{dt}, \frac{dz}{dt} \right]
-    $$
+$$
+\vec{v} = \frac{d\vec{r}}{dt} = \left[ \frac{dx}{dt}, \frac{dy}{dt}, \frac{dz}{dt} \right]
+$$
 
-* **Momentum ($\vec{p}$)**: The product of mass and velocity.
+**Momentum ($\vec{p}$)**: The product of mass and velocity.
     
-    $$
-    \vec{p} = m \cdot \vec{v}
-    $$
+$$
+\vec{p} = m \cdot \vec{v}
+$$
 
-* **Acceleration ($\vec{a}$)**: The time derivative of the velocity vector.
+**Acceleration ($\vec{a}$)**: The time derivative of the velocity vector.
     
-    $$
-    \vec{a} = \frac{d\vec{v}}{dt} = \left[ \frac{dv_x}{dt}, \frac{dv_y}{dt}, \frac{dv_z}{dt} \right]
-    $$
+$$
+\vec{a} = \frac{d\vec{v}}{dt} = \left[ \frac{dv_x}{dt}, \frac{dv_y}{dt}, \frac{dv_z}{dt} \right]
+$$
 
-* **Force ($\vec{F}$)**: Defined by Newton's Second Law.
+**Force ($\vec{F}$)**: Defined by Newton's Second Law.
     
-    $$
-    \vec{F} = m \cdot \vec{a}
-    $$
+$$
+\vec{F} = m \cdot \vec{a}
+$$
 
-* **Power ($P$)**: The scalar product of force and velocity.
+**Power ($P$)**: The scalar product of force and velocity.
     
-    $$
-    P = \vec{F} \cdot \vec{v} = F_x v_x + F_y v_y + F_z v_z
-    $$
+$$
+P = \vec{F} \cdot \vec{v} = F_x v_x + F_y v_y + F_z v_z
+$$
 
 ---
 
