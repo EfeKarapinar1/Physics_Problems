@@ -1,17 +1,12 @@
-# Problem 11: Dynamics with a Time-Dependent Force
+# Question - 11. Dynamics with a time-dependent force
 
-## Problem Statement
-A particle of mass $m=3$ kg moves in a force field $F$ dependent on time:
+A particle of mass $m=3$ kg moves in a force field $F$ dependent on time in the following way:
 
 $$
-\vec{F}(t) = (15t, 3t-12, -6t^2) \, \text{N}
+F = (15t, 3t-12, -6t^2) \, \text{N}
 $$
 
-Given initial conditions:
-- Initial position: $\vec{r}_0 = (5, 2, -3)$ m
-- Initial velocity: $\vec{v}_0 = (2, 0, 1)$ m/s
-
-Find the dependence of the particle's velocity and position on time.
+Assuming initial conditions $r_0=(5,2,-3)$ m, $v_0=(2,0,1)$ m/s, find the dependence of the particle's position and velocity on time.
 
 ---
 
