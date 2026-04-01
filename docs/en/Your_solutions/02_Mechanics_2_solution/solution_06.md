@@ -1,4 +1,8 @@
-# Problem: Energy Dissipation of a Bouncing Ball
+# Question - 6. Energy Dissipation
+
+A tennis ball is dropped from a height of $2.0$ m. After each bounce, it loses 30% of its mechanical energy. To what height does it rise after the second bounce?
+
+---
 
 ## Necessary Definitions and Formulas
 
