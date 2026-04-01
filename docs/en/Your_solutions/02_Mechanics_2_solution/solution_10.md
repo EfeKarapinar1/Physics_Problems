@@ -1,6 +1,5 @@
-# Physics Problem: Force Field and Power
+# Question - 10. Force field and power
 
-## 1. Problem Statement
 In a certain force field, the equations of motion of a particle with mass $m=0.5$ kg are as follows:
 
 $$
