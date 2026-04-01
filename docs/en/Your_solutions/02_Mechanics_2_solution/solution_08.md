@@ -1,4 +1,18 @@
-# Physics Problem: Work of a Variable Force
+# Question - 8. Work of a variable force
+
+Given a one-dimensional force:
+
+$$
+F(x)=-kx
+$$
+
+* Write down the equation of motion and solve it.
+* Calculate the work done during the displacement from $0$ to $x_0$.
+* Interpret the result as potential energy.
+* Verify the relationship $F = -\frac{dU}{dx}$.
+* Draw the graph of $F(x)$ and $U(x)$.
+
+---
 
 ## 1. Essential Definitions and Formulas
 
