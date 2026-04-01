@@ -1,4 +1,4 @@
-# 4. Energy & Momentum
+# Question - 4. Energy & Momentum
 
 A 0.5 kg block slides down a frictionless track from a height of 3.0 m. At the bottom, it collides and sticks to a 1.5 kg block, which is initially at rest. What is the speed of the combined mass just after the collision?
 
